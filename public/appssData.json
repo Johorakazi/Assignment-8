@@ -1,0 +1,337 @@
+[
+  {
+    "image": "./public/assets/demo-app (2).webp",
+    "title": "Forest: Focus for Productivity",
+    "id": 1,
+    "size": 48,
+    "reviews": 18234,
+    "ratingAvg": 4.6,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 320 },
+      { "name": "2 star", "count": 640 },
+      { "name": "3 star", "count": 2100 },
+      { "name": "4 star", "count": 5600 },
+      { "name": "5 star", "count": 9600 }
+    ]
+  },
+  {
+    "image": "",
+    "title": "SmPlan:ToDo List with Reminder",
+    "id": 2,
+    "size": 55,
+    "reviews": 9654,
+    "ratingAvg": 4.4,
+    "downloads": 860000,
+    "ratings": [
+      { "name": "1 star", "count": 420 },
+      { "name": "2 star", "count": 510 },
+      { "name": "3 star", "count": 1340 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 4184 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/picperfect.png",
+    "title": "FLIP - Focus Timer for Study",
+    "id": 3,
+    "size": 72,
+    "reviews": 24012,
+    "ratingAvg": 4.8,
+    "downloads": 5400000,
+    "ratings": [
+      { "name": "1 star", "count": 560 },
+      { "name": "2 star", "count": 720 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 5200 },
+      { "name": "5 star", "count": 15732 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/pocketchef.png",
+    "title": "Pomocat - Cute Pomodoro Timer",
+    "id": 4,
+    "reviews": 17892,
+    "ratingAvg": 4.5,
+    "downloads": 2400000,
+    "ratings": [
+      { "name": "1 star", "count": 740 },
+      { "name": "2 star", "count": 920 },
+      { "name": "3 star", "count": 2600 },
+      { "name": "4 star", "count": 5300 },
+      { "name": "5 star", "count": 8332 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/soundscape.png",
+    "title": "Time Planner: Schedule & Tasks",
+    "id": 5,
+    "size": 89,
+    "reviews": 32567,
+    "ratingAvg": 4.7,
+    "downloads": 9800000,
+    "ratings": [
+      { "name": "1 star", "count": 1250 },
+      { "name": "2 star", "count": 1560 },
+      { "name": "3 star", "count": 3600 },
+      { "name": "4 star", "count": 7600 },
+      { "name": "5 star", "count": 18557 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/learnify.png",
+    "title": "Morning Habits - Daily Routine",
+    "id": 6,
+    "reviews": 20430,
+    "ratingAvg": 4.6,
+    "downloads": 3700000,
+    "ratings": [
+      { "name": "1 star", "count": 870 },
+      { "name": "2 star", "count": 1020 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 6200 },
+      { "name": "5 star", "count": 9840 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/globetrotter.png",
+    "title": "Focus Plant: Pomodoro Forest",
+    "id": 7,
+    "size": 67,
+    "reviews": 15320,
+    "ratingAvg": 4.3,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 1160 },
+      { "name": "2 star", "count": 1380 },
+      { "name": "3 star", "count": 2340 },
+      { "name": "4 star", "count": 3840 },
+      { "name": "5 star", "count": 6600 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/mindbloom.png",
+    "title": "Alarmy - Alarm Clock & Sleep",
+    "id": 8,
+    "size": 50,
+    "reviews": 11890,
+    "ratingAvg": 4.7,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 670 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 3300 },
+      { "name": "5 star", "count": 6120 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/securevault.png",
+    "title": "Forest: Focus for Productivity",
+  
+    "id": 9,
+    "size": 32,
+    "reviews": 4567,
+    "ratingAvg": 4.9,
+    "downloads": 750000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 3087 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/gameverse.png",
+    "title": "SmPlan:ToDo List with Reminder",
+    "id": 10,
+    "size": 95,
+    "reviews": 42100,
+    "ratingAvg": 4.2,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 3200 },
+      { "name": "2 star", "count": 4100 },
+      { "name": "3 star", "count": 7800 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 15000 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/homenest.png",
+    "title": "FLIP - Focus Timer for Study",
+    "id": 11,
+    "reviews": 8900,
+    "ratingAvg": 4.5,
+    "downloads": 980000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 4150 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/codeflow.png",
+    "title": "Pomocat - Cute Pomodoro Timer",
+    "id": 12,
+    "size": 60,
+    "reviews": 11250,
+    "ratingAvg": 4.7,
+    "downloads": 1400000,
+    "ratings": [
+      { "name": "1 star", "count": 280 },
+      { "name": "2 star", "count": 390 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 5880 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/investwise.png",
+    "title": "Time Planner: Schedule & Tasks",
+    "id": 13,
+    "size": 52,
+    "reviews": 14300,
+    "ratingAvg": 4.3,
+    "downloads": 1900000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 5800 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/auroranews.png",
+    "title": "Morning Habits - Daily Routine",
+    
+    "id": 14,
+    "size": 78,
+    "reviews": 28900,
+    "ratingAvg": 4.1,
+    "downloads": 7200000,
+    "ratings": [
+      { "name": "1 star", "count": 2500 },
+      { "name": "2 star", "count": 3100 },
+      { "name": "3 star", "count": 6400 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 8900 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/pethub.png",
+    "title": "Focus Plant: Pomodoro Forest",
+    "id": 15,
+    "reviews": 6200,
+    "ratingAvg": 4.8,
+    "downloads": 650000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 3600 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/lingosprint.png",
+    "title": "Alarmy - Alarm Clock & Sleep",
+    "id": 16,
+    "size": 57,
+    "reviews": 19500,
+    "ratingAvg": 4.6,
+    "downloads": 3100000,
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 10450 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/realtyfind.png",
+    "title": "Time Planner: Schedule & Tasks",
+    "id": 17,
+  
+    "size": 70,
+    "reviews": 9800,
+    "ratingAvg": 4.2,
+    "downloads": 1100000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 2800 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/planetsim.png",
+    "title": "Morning Habits - Daily Routine",
+
+    "id": 18,
+    "reviews": 3500,
+    "ratingAvg": 4.9,
+    "downloads": 450000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 2450 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/sketchpad.png",
+    "title": "Focus Plant: Pomodoro Forest",
+    "id": 19,
+    "reviews": 16500,
+    "ratingAvg": 4.7,
+    "downloads": 2800000,
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 5500 },
+      { "name": "5 star", "count": 8700 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/budgetflow.png",
+    "title": "Alarmy - Alarm Clock & Sleep",
+   
+    "id": 20,
+    "size": 42,
+    "reviews": 13700,
+    "ratingAvg": 4.4,
+    "downloads": 1700000,
+    "ratings": [
+      { "name": "1 star", "count": 650 },
+      { "name": "2 star", "count": 850 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 5900 }
+    ]
+  },
+  {
+  "image": "https://example.com/images/financial-tracker.png",
+  "title": "ExpenseFlow: Budget Planner",
+  "id": 20,
+  "reviews": 9250,
+  "ratingAvg": 4.5,
+  "downloads": 1500000,
+  "ratings": [
+    { "name": "1 star", "count": 200 },
+    { "name": "2 star", "count": 300 },
+    { "name": "3 star", "count": 950 },
+    { "name": "4 star", "count": 3800 },
+    { "name": "5 star", "count": 4000 }
+  ]
+}
+
+]

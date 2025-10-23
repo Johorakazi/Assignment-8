@@ -6,6 +6,7 @@ const links = (
     <li><Link to="/">Home</Link></li>
     <li><Link to="/apps">Apps</Link></li>
     <li><Link to="/installation">Installation</Link></li>
+    <li><Link to="/error">Error</Link></li>
   </>
 );
 
@@ -26,11 +27,17 @@ const Navbar = () => {
           </ul>
         </div>
 
-        <div >
-          <Link to="/" className="btn btn-ghost text-xl">
-          HERO-IO
-        </Link>
-        </div>
+        <div>
+  <Link to="/" className="btn btn-ghost text-xl flex items-center gap-2">
+    <img
+      src="/assets/logo.png"
+      alt="Hero IO Logo"
+      className="w-8 h-8"
+    />
+    HERO-IO
+  </Link>
+</div>
+
       
       </div>
 
@@ -43,7 +50,7 @@ const Navbar = () => {
           href="https://github.com/Johorakazi" 
           target="_blank"
           rel="noopener noreferrer"
-          className="btn flex items-center gap-2"
+          className="btn flex items-center gap-2 bg-blue-600 hover:-bg-linear-60 text-white border-0"
         >
           <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" className="git-hub" viewBox="0 0 24 24">
             <path d="M12 .297c-6.63 0-12 5.373-12 12 

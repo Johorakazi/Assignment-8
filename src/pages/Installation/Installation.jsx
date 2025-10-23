@@ -2,7 +2,16 @@ import React from 'react'
 
 const Installation = () => {
   return (
-    <div>Installation</div>
+    <div> 
+    <div>
+      <h1>
+        ajshfsiekrg
+      </h1>
+      <h3>jhagsfiueskrlg</h3>
+    </div>
+    
+
+    </div>
   )
 }
 
