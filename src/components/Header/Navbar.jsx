@@ -5,8 +5,8 @@ const links = (
   <>
     <li><Link to="/">Home</Link></li>
     <li><Link to="/apps">Apps</Link></li>
-    <li><Link to="/installation">Installation</Link></li>
-    <li><Link to="/error">Error</Link></li>
+    <li><Link to="/MyInstallation">Installation</Link></li>
+    
   </>
 );
 

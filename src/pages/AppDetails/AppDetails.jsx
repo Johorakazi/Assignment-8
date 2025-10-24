@@ -6,4 +6,4 @@ const AppDEtails = () => {
   )
 }
 
-export default AppDEtails
+export default AppDEtails;

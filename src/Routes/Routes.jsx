@@ -11,6 +11,7 @@ import AppDetails from '../pages/AppDetails/AppDetails'
 import Appss from '../pages/Appss/Appss';
 import ErrorPage from '../pages/Error/ErrorPage';
 import AppNotFound from '../pages/Error/AppNotFound';
+import MyInstallation from '../pages/Installation/MyInstallation';
 
 export const router = createBrowserRouter([
   {
@@ -28,8 +29,12 @@ export const router = createBrowserRouter([
           element:<Appss/>
         },
         {
-          path:'/Installation',
+          path:'/Installation/:id',
           element:<Installation />
+        },
+         {
+          path:'/MyInstallation',
+          element:<MyInstallation />
         },
          {
           path:'/AppDetails',

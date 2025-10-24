@@ -1,4 +1,4 @@
-import  { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { Link, useNavigate } from "react-router";
 
 const Homecard = () => {
@@ -43,40 +43,22 @@ const Homecard = () => {
               <div
                 key={app.id}
                 onClick={() => handleCardClick(app.id)}
-                className="cursor-pointer card bg-base-100 w-80 mx-auto shadow-md hover:shadow-2xl transition-transform hover:scale-[1.03]"
+                className="cursor-pointer card mx-auto hover:shadow-2xl transition-transform hover:scale-[1.03]"
               >
-                {/* App Image */}
                 <figure className="h-48 overflow-hidden px-4 pt-4">
                   <div className="w-full aspect-square bg-gray-100 rounded-lg flex items-center justify-center overflow-hidden">
                     <img
-                      src={app?.image ||null}
+                      src={app?.image || null}
                       alt={app.title}
                       className="object-contain w-full h-full"
                     />
                   </div>
                 </figure>
-
-                {/* App Details */}
-                <div className="card-body py-4 px-4">
-                  <h2 className="card-title text-base font-bold mb-0">
-                    {app.title}
-                  </h2>
-
-                  <div className="mt-4 flex items-center justify-between">
-                    {/* Downloads */}
+                <div className="card-body py-4 px-4 gap-y-4 flex flex-col">
+                  <h2 className="card-title text-base font-bold">{app.title}</h2>
+                  <div className="flex items-center justify-between gap-x-4 mt-2">
                     <div className="flex items-center bg-gray-50 rounded px-2 py-[2px] min-w-[60px]">
-                      <svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        width="16"
-                        height="16"
-                        fill="none"
-                        viewBox="0 0 24 24"
-                        stroke="currentColor"
-                        strokeWidth="2"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        className="text-green-600 mr-1"
-                      >
+                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-green-600 mr-1">
                         <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
                         <polyline points="7 10 12 15 17 10" />
                         <line x1="12" x2="12" y1="3" y2="15" />
@@ -85,17 +67,8 @@ const Homecard = () => {
                         {Math.floor((app.downloads || 0) / 1000000)}M
                       </span>
                     </div>
-
-                    {/* Rating */}
                     <div className="flex items-center bg-orange-50 rounded px-2 py-[2px] min-w-[38px] justify-center">
-                      <svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        width="16"
-                        height="16"
-                        fill="currentColor"
-                        viewBox="0 0 24 24"
-                        className="text-orange-400 mr-1"
-                      >
+                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 24 24" className="text-orange-400 mr-1">
                         <path d="M12 .587l3.668 7.568L24 9.748l-6 5.847L19.335 24 12 20.201 4.665 24 6 15.595 0 9.748l8.332-1.593z" />
                       </svg>
                       <span className="text-[14px] font-semibold text-orange-500">
@@ -107,11 +80,9 @@ const Homecard = () => {
               </div>
             ))}
           </div>
-
-          {/* Show All Button */}
           <div className="text-center mt-10">
             <Link
-            to={"/apps"}
+              to={"/apps"}
               className="px-6 py-2 bg-violet-600 hover:bg-violet-700 text-white font-medium rounded transition"
             >
               Show All
