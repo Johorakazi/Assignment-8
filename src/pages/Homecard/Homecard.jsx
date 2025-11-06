@@ -6,7 +6,7 @@ const Homecard = () => {
   const navigate = useNavigate();
 
   useEffect(() => {
-    fetch("./public/appssData.json")
+    fetch("/appssData.json")
       .then((response) => {
         if (!response.ok) {
           throw new Error("Failed to fetch app data");
