@@ -20,7 +20,7 @@ const stats = [
 
 const TopAppsSection = () => {
   return (
-    <div className="w-full py-14 px-6 text-center flex flex-col items-center justify-center bg-[#1976e5]">
+    <div className="w-full py-14 px-6 text-center flex flex-col items-center justify-center bg-[#7045d5]">
       <h2 className="text-3xl sm:text-4xl font-bold text-white text-center mb-10">
         Trusted By Millions, Built For You
       </h2>
