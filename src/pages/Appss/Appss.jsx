@@ -1,4 +1,4 @@
-// src/pages/Apps.jsx
+
 import React, { useEffect, useState } from "react";
 import { toast } from "react-hot-toast";
 import { useNavigate } from "react-router";
@@ -10,8 +10,7 @@ const Apps = () => {
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState(null);
 
-  const navigate = useNavigate(); // ✅ Initialize navigate
-
+  const navigate = useNavigate(); 
   useEffect(() => {
     fetch("/appssData.json")
       .then((res) => {

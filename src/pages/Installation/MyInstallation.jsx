@@ -55,7 +55,7 @@ const MyInstallation = () => {
           No apps installed yet.
         </p>
       ) : (
-        // Use a wide wrapper for long cards
+        
         <div className="flex flex-col gap-5 w-full max-w-5xl mx-auto">
           {installedApps.map((app) => (
             <div
