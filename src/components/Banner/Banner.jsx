@@ -24,7 +24,7 @@ const Banner = () => {
     className="flex items-center border border-gray-300 bg-white rounded-lg px-4 py-2 shadow hover:border-gray-400 transition w-[180px] gap-3"
   >
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Play_2016_icon.svg"
+      src="https://static.vecteezy.com/system/resources/previews/022/484/501/non_2x/google-play-store-icon-logo-symbol-free-png.png "
       alt="Google Play"
       className="w-6 h-6"
     />
@@ -39,7 +39,7 @@ const Banner = () => {
     className="flex items-center border border-gray-300 bg-white rounded-lg px-4 py-2 shadow hover:border-gray-400 transition w-[180px] gap-3"
   >
     <img
-      src="https://www.google.com/search?q=apple+app+store+logo&oq=apple+&gs_lcrp=EgZjaHJvbWUqDQgCEAAYkQIYgAQYigUyBwgAEAAYjwIyGAgBEC4YQxjHARixAxjJAxjRAxiABBiKBTINCAIQABiRAhiABBiKBTINCAMQABiRAhiABBiKBTIMCAQQABhDGIAEGIoFMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEJMTQxODRqMGo3qAIIsAIB8QWm5l3iS25Eh_EFpuZd4ktuRIc&sourceid=chrome&ie=UTF-8"
+      src="https://www.logo.wine/a/logo/App_Store_(iOS)/App_Store_(iOS)-Logo.wine.svg "
       alt="App Store"
       className="w-6 h-6"
     />

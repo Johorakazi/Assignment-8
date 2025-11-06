@@ -1,3 +1,4 @@
+
 import React from 'react';
 import {
   createBrowserRouter,
@@ -17,7 +18,7 @@ export const router = createBrowserRouter([
   {
     path: "/",
     element:<Root/>,
-    errorElement: <ErrorPage/>,
+  
     children: [
         {
           index: true,
@@ -37,13 +38,17 @@ export const router = createBrowserRouter([
           element:<MyInstallation />
         },
          {
-          path:'/AppDetails',
+          path:'/AppDetails/:id',
           element:<AppDetails />
         },
         {
-     path: "/AppNotFound",
-    element:<AppNotFound/>,
-  }
+         path: "/Apps/*",
+         element:<AppNotFound/>,
+        },
+         {
+         path: "*",
+         element:<ErrorPage/>,
+        }
       
         
     ]

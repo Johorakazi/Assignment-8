@@ -16,7 +16,7 @@
     ]
   },
   {
-    "image": "",
+    "image": "./public/assets/demo-app (1).webp",
     "title": "SmPlan:ToDo List with Reminder",
     "id": 2,
     "size": 55,
@@ -32,7 +32,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/picperfect.png",
+    "image": "/public/assets/demo-app (6).webp",
     "title": "FLIP - Focus Timer for Study",
     "id": 3,
     "size": 72,
@@ -48,7 +48,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/pocketchef.png",
+    "image": "./public/assets/demo-app (1).webp",
     "title": "Pomocat - Cute Pomodoro Timer",
     "id": 4,
     "reviews": 17892,
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/soundscape.png",
+    "image": "./public/assets/demo-app (6).webp",
     "title": "Time Planner: Schedule & Tasks",
     "id": 5,
     "size": 89,
@@ -79,7 +79,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/learnify.png",
+    "image": "./public/assets/demo-app (5).webp",
     "title": "Morning Habits - Daily Routine",
     "id": 6,
     "reviews": 20430,
@@ -94,7 +94,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/globetrotter.png",
+    "image": "./public/assets/demo-app (2).webp",
     "title": "Focus Plant: Pomodoro Forest",
     "id": 7,
     "size": 67,
@@ -110,7 +110,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/mindbloom.png",
+    "image": "https://play-lh.googleusercontent.com/gXJLTDIvxXTK6uKl2e3Od_zmrlEul1CbkgxWxjbGeDzLl4EMFsdfER2VEgqAue2v1TE",
     "title": "Alarmy - Alarm Clock & Sleep",
     "id": 8,
     "size": 50,
@@ -126,10 +126,11 @@
     ]
   },
   {
-    "image": "https://example.com/images/securevault.png",
+    "image": "https://play-lh.googleusercontent.com/NWRVVF6zXvmcqspJwdFOKcQG6OlsNwpMOxED_DgB6B2BBDeWwAeWZKZxGhgqU0LQVJU",
     "title": "Forest: Focus for Productivity",
   
     "id": 9,
+    "description": "This focus app takes the proven Pomodoro technique and makes it even more practical for modern lifestyles. Instead of just setting a timer, it builds a complete environment for deep work, minimizing distractions and maximizing concentration. Users can create custom work and break intervals, track how many sessions they complete each day, and review detailed statistics about their focus habits over time. The design is minimal and calming, reducing cognitive load so you can focus entirely on the task at hand. Notifications gently let you know when to pause and when to resume, helping you maintain a healthy rhythm between work and rest.A unique feature of this app is the integration of task lists with timers. You can assign each task to a specific Pomodoro session, making your schedule more structured. The built-in analytics show not only how much time you’ve worked but also which tasks consumed the most energy. This allows you to reflect on your efficiency and adjust your workflow accordingly. The app also includes optional background sounds such as white noise, nature sounds, or instrumental music to create a distraction-free atmosphere.For people who struggle with procrastination, the app provides motivational streaks and achievements. Completing multiple Pomodoro sessions unlocks milestones, giving a sense of accomplishment. This gamified approach makes focusing more engaging and less like a chore. Whether you’re studying for exams, coding, writing, or handling office work, the app adapts to your routine. By combining focus tracking, task management, and motivational tools, this Pomodoro app ensures that you not only work harder but also smarter. It is a personal trainer for your brain, keeping you disciplined, refreshed, and productive throughout the day",
     "size": 32,
     "reviews": 4567,
     "ratingAvg": 4.9,
@@ -143,7 +144,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/gameverse.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgbsBPD4_LPp1p7TFxMbJq5o_EVASVEiY64Q&s",
     "title": "SmPlan:ToDo List with Reminder",
     "id": 10,
     "size": 95,
@@ -159,7 +160,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/homenest.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm-jhM82-YIURIANJn8XauBcqL4GtRteO3UQ&s",
     "title": "FLIP - Focus Timer for Study",
     "id": 11,
     "reviews": 8900,
@@ -174,7 +175,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/codeflow.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOsAEyNvPVkGg50yxgT1KZedTp4Yj2lTBiXA&s",
     "title": "Pomocat - Cute Pomodoro Timer",
     "id": 12,
     "size": 60,
@@ -190,7 +191,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/investwise.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBeYsvJjtyBgYAA9oLVSPvUE_9Q-S39VWfxg&s",
     "title": "Time Planner: Schedule & Tasks",
     "id": 13,
     "size": 52,
@@ -206,7 +207,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/auroranews.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXM33HpM-AV2Ikby9DQyiV--MIxTATqF7smg&s",
     "title": "Morning Habits - Daily Routine",
     
     "id": 14,
@@ -223,7 +224,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/pethub.png",
+    "image": "https://play-lh.googleusercontent.com/i6n4majLCcI1LMgmRRJHnhBIGrN2dqw2MyQcnXisIjo_JCylWUbFGDlY7g4Ng_3m4g",
     "title": "Focus Plant: Pomodoro Forest",
     "id": 15,
     "reviews": 6200,
@@ -238,7 +239,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/lingosprint.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4WWzDd6g4g-urc0qof6Am-A_mzXpNApY0Xw&s",
     "title": "Alarmy - Alarm Clock & Sleep",
     "id": 16,
     "size": 57,
@@ -254,7 +255,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/realtyfind.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ndWbG2VpTvvQouFglinrdboWfWYxzVGc4w&s",
     "title": "Time Planner: Schedule & Tasks",
     "id": 17,
   
@@ -271,7 +272,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/planetsim.png",
+    "image": "https://play-lh.googleusercontent.com/kfpAxLPDEfpr3-uMNfHy8Xf4EmQZ-GvqhnOlytzM90j-3phnjAuHVreoo_ldEA8QGA=w240-h480-rw",
     "title": "Morning Habits - Daily Routine",
 
     "id": 18,
@@ -287,7 +288,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/sketchpad.png",
+    "image": "https://play-lh.googleusercontent.com/Dp9w3L54TBZgWPB1auw22DQ7Dgzj-6iceKy_A2KgSqpbEoFKIo__WCqLxHyfDl2pZ0s",
     "title": "Focus Plant: Pomodoro Forest",
     "id": 19,
     "reviews": 16500,
@@ -302,7 +303,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/budgetflow.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIhLC6LFmjwzbQhoQcK0jgfm1JMDxQWfIWdA&s",
     "title": "Alarmy - Alarm Clock & Sleep",
    
     "id": 20,
@@ -317,21 +318,6 @@
       { "name": "4 star", "count": 4500 },
       { "name": "5 star", "count": 5900 }
     ]
-  },
-  {
-  "image": "https://example.com/images/financial-tracker.png",
-  "title": "ExpenseFlow: Budget Planner",
-  "id": 20,
-  "reviews": 9250,
-  "ratingAvg": 4.5,
-  "downloads": 1500000,
-  "ratings": [
-    { "name": "1 star", "count": 200 },
-    { "name": "2 star", "count": 300 },
-    { "name": "3 star", "count": 950 },
-    { "name": "4 star", "count": 3800 },
-    { "name": "5 star", "count": 4000 }
-  ]
-}
+  }
 
 ]
